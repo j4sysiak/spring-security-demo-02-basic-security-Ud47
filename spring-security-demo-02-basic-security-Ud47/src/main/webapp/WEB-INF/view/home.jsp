@@ -1,14 +1,14 @@
 <html>
 
 <head>
-	<title>JacekSysiak Company Home Page</title>
+	<title>Jacek Sysiak Company Home Page</title>
 </head>
 
 <body>
-	<h2>JacekSysiak Company Home Page</h2>
+	<h2>Jacek Sysiak Company Home Page</h2>
 	<hr>
 	
-	Welcome to the JacekSysiak company home page!
+	Welcome to the Jacek Sysiak company home page!
 
 </body>
 
